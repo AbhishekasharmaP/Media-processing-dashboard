@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "USlnu9TUQcU=",
+  "success": true,
+  "projectFilePath": "D:\\1. Codebase AI team\\Media Processing Dashboard\\backend\\backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhisheka.s\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.19\\microsoft.aspnetcore.openapi.9.0.19.nupkg.sha512",
+    "C:\\Users\\abhisheka.s\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
